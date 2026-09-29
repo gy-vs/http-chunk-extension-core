@@ -1,0 +1,2 @@
+include LICENSE.txt README.md h11/py.typed
+recursive-include h11/tests *
